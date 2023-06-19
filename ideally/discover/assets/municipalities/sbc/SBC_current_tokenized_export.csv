@@ -133,25 +133,19 @@ Maximum number of dwelling units allowed on a lot. The actual number of units al
 Zones Development Standards - Single Family Residential (R-1),Front Setback Primary,"Zones Development Standards - Single Family Residential (R-1)
 Front Setback Primary
 
-50 ft from road centerline, or 20 ft from right-of-way, or
-20 ft from private easement serving 5 or more lots. 10ft minimum
-If lot is within SC-MC overlay - as required by Section 35.28.175 (SC-MC Overlay Zone)",81.0
+50 ft from road centerline, or 20 ft from right-of-way, or 20 ft from private easement serving 5 or more lots otherwise 10ft minimum. If lot is within SC-MC overlay - as required by Section 35.28.175 (SC-MC Overlay Zone)",80.0
 Zones Development Standards - Single Family Residential (R-1),Front Setback Secondary,"Zones Development Standards - Single Family Residential (R-1)
 Front Setback Secondary
 
-For a lot with a width of less than 100 ft the setback shall be 20% of lot width, 10 ft minimum.
-For a lot with a width 100 ft or more - Same as front setback primary
-For lots within SC-MC overlay - as required by Section 35.28.175 (SC-MC Overlay Zone).",88.0
+For a lot with a width of less than 100 ft the setback shall be 20% of lot width. Otherwise 10 ft minimum. For a lot with a width 100 ft or more - Same as front setback primary. For lots within SC-MC overlay - as required by Section 35.28.175 (SC-MC Overlay Zone).",88.0
 Zones Development Standards - Single Family Residential (R-1),Side Setback,"Zones Development Standards - Single Family Residential (R-1)
 Side Setback
 
-10% of lot width or except where zoned for minimum lot area of:
-2 acre or less - 5 ft minimum, 10 ft maximum required;
-3 acre or more - 10 ft minimum, 20 ft maximum required.",65.0
+10% of lot width or except where zoned for minimum lot area of 2 acre or less - setback shall be 5 ft minimum, otherwise 10 ft maximum required. For 3 acre or more - 1setaback shall be 10 ft minimum, otherwise 20 ft maximum required.",74.0
 Zones Development Standards - Single Family Residential (R-1),Rear Setback,"Zones Development Standards - Single Family Residential (R-1)
 Rear Setback
 
-25 ft or 15 ft if rear abuts permanent open space or a street without access.",38.0
+25 ft or 15 ft if the lot abuts permanent open space or a street without access.",39.0
 Zones Development Standards - Single Family Residential (R-1),Accessory Structures,"Zones Development Standards - Single Family Residential (R-1)
 Accessory Structures
 
@@ -190,13 +184,13 @@ Zones Development Standards - One-Family Exclusive Residential (EX-1),Setbacks S
 Setbacks Summary
 
 Minimum setbacks required. See Section 35.30.150 (Setback Requirements and Exceptions) for exceptions. Required building separation is between buildings on the same site.",54.0
-Zones Development Standards - One-Family Exclusive Residential (EX-1),Setbacks Front Primary,"Zones Development Standards - One-Family Exclusive Residential (EX-1)
-Setbacks Front Primary
+Zones Development Standards - One-Family Exclusive Residential (EX-1),Front Setback Primary,"Zones Development Standards - One-Family Exclusive Residential (EX-1)
+Front Setback Primary
 
 75 ft from road centerline;
 125 ft from centerline of road with right-of-way of 80 ft or more.",49.0
-Zones Development Standards - One-Family Exclusive Residential (EX-1),Setbacks Front Secondary,"Zones Development Standards - One-Family Exclusive Residential (EX-1)
-Setbacks Front Secondary
+Zones Development Standards - One-Family Exclusive Residential (EX-1),Front Setback Secondary,"Zones Development Standards - One-Family Exclusive Residential (EX-1)
+Front Setback Secondary
 
 Lot width less than 100 ft - 20% of lot width, 10 ft minimum;
 Lot width 100 ft or more - Same as primary front setback.
@@ -245,12 +239,12 @@ Zones Development Standards - Two-Family Residential (R-2),Setbacks Summary,"Zon
 Setbacks Summary
 
 Minimum setbacks required. See Section 35.30.150 (Setback Requirements and Exceptions) for exceptions. Required building separation is between buildings on the same site.",53.0
-Zones Development Standards - Two-Family Residential (R-2),Setbacks Front Primary,"Zones Development Standards - Two-Family Residential (R-2)
-Setbacks Front Primary
+Zones Development Standards - Two-Family Residential (R-2),Front Setback Primary,"Zones Development Standards - Two-Family Residential (R-2)
+Front Setback Primary
 
 50 ft from road centerline, or 20 ft from right-of-way, or 20 ft from easement serving 5 or more lots.",50.0
-Zones Development Standards - Two-Family Residential (R-2),Setbacks Front Secondary,"Zones Development Standards - Two-Family Residential (R-2)
-Setbacks Front Secondary
+Zones Development Standards - Two-Family Residential (R-2),Front Setback Secondary,"Zones Development Standards - Two-Family Residential (R-2)
+Front Setback Secondary
 
 Lot width less than 100 ft - 20% of lot width, 10 ft minimum;
 Lot width 100 ft or greater - same as primary front setback.",52.0
@@ -261,7 +255,7 @@ Side
 Zones Development Standards - Two-Family Residential (R-2),Rear,"Zones Development Standards - Two-Family Residential (R-2)
 Rear
 
-25 ft; 15 ft if rear abuts permanent open space or a street without access.",37.0
+25 ft; 15 ft if lot rear abuts permanent open space or a street without access.",38.0
 Zones Development Standards - Two-Family Residential (R-2),Accessory Structures,"Zones Development Standards - Two-Family Residential (R-2)
 Accessory Structures
 
@@ -302,12 +296,12 @@ Zones Development Standards - Design Residential (DR),Setbacks Summary,"Zones De
 Setbacks Summary
 
 Minimum setbacks required. See Section 35.30.150 (Setback Requirements and Exceptions) for exceptions. Required building separation is between buildings on the same site.",49.0
-Zones Development Standards - Design Residential (DR),Setbacks Front Primary,"Zones Development Standards - Design Residential (DR)
-Setbacks Front Primary
+Zones Development Standards - Design Residential (DR),Front Setback Primary,"Zones Development Standards - Design Residential (DR)
+Front Setback Primary
 
 20 ft from right-of-way, or 20 ft from easement serving 5 or more dwellings.",38.0
-Zones Development Standards - Design Residential (DR),Setbacks Front Secondary,"Zones Development Standards - Design Residential (DR)
-Setbacks Front Secondary
+Zones Development Standards - Design Residential (DR),Front Setback Secondary,"Zones Development Standards - Design Residential (DR)
+Front Setback Secondary
 
 Lot width less than 100 ft - 20% of lot width, 10 ft minimum;
 Lot width 100 ft or greater - same as primary front setback.",48.0
@@ -359,12 +353,12 @@ Zones Development Standards - Planned Residential Development (PRD),Setbacks Sum
 Setbacks Summary
 
 Minimum setbacks required. See Section 35.30.150 (Setback Requirements and Exceptions) for exceptions. Required building separation is between buildings on the same site.",51.0
-Zones Development Standards - Planned Residential Development (PRD),Setbacks Front Primary,"Zones Development Standards - Planned Residential Development (PRD)
-Setbacks Front Primary
+Zones Development Standards - Planned Residential Development (PRD),Front Setback Primary,"Zones Development Standards - Planned Residential Development (PRD)
+Front Setback Primary
 
 As determined by Final Development Plan.",26.0
-Zones Development Standards - Planned Residential Development (PRD),Setbacks Front Secondary,"Zones Development Standards - Planned Residential Development (PRD)
-Setbacks Front Secondary
+Zones Development Standards - Planned Residential Development (PRD),Front Setback Secondary,"Zones Development Standards - Planned Residential Development (PRD)
+Front Setback Secondary
 
 As determined by Final Development Plan.",26.0
 Zones Development Standards - Planned Residential Development (PRD),Side,"Zones Development Standards - Planned Residential Development (PRD)
@@ -415,12 +409,12 @@ Zones Development Standards - Small Lot Planned Development (SLP),Maximum Densit
 Maximum Density
 
 One one-family dwelling per lot; 7 dwellings per acre; plus one or more accessory dwelling units and/or one junior accessory dwelling unit per lot where allowed in compliance with Section 35.42.015 (Accessory Dwelling Units and Junior Accessory Dwelling Units).",73.0
-Zones Development Standards - Small Lot Planned Development (SLP),Setbacks Front Primary,"Zones Development Standards - Small Lot Planned Development (SLP)
-Setbacks Front Primary
+Zones Development Standards - Small Lot Planned Development (SLP),Front Setback Primary,"Zones Development Standards - Small Lot Planned Development (SLP)
+Front Setback Primary
 
 SLP perimeter lot - 50 ft from road centerline or 20 ft from right-of-way. SLP interior lot - 10 ft.",49.0
-Zones Development Standards - Small Lot Planned Development (SLP),Setbacks Front Secondary,"Zones Development Standards - Small Lot Planned Development (SLP)
-Setbacks Front Secondary
+Zones Development Standards - Small Lot Planned Development (SLP),Front Setback Secondary,"Zones Development Standards - Small Lot Planned Development (SLP)
+Front Setback Secondary
 
 SLP perimeter lot -
 Lot width less than 100 ft - 20% of lot width, 10 ft minimum;
@@ -473,12 +467,12 @@ See Section 35.23.080 (MHP Zone Standards) and Section 35.23.090 (MHS Zone Stand
 Maximum Density
 
 See Section 35.23.080 (MHP Zone Standards) and Section 35.23.090 (MHS Zone Standards); plus one or more accessory dwelling units and/or one junior accessory dwelling unit per lot where allowed in compliance with Section 35.42.015 (Accessory Dwelling Units and Junior Accessory Dwelling Units).",91.0
-"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)",Setbacks Front Primary,"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)
-Setbacks Front Primary
+"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)",Front Setback Primary,"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)
+Front Setback Primary
 
 50 feet from the centerline or 20 feet from the right-of-way line of any street.",48.0
-"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)",Setbacks Front Secondary,"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)
-Setbacks Front Secondary
+"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)",Front Setback Secondary,"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)
+Front Setback Secondary
 
 Lot width less than 100 ft - 20% of lot width, 10 ft min.; Lot width 100 ft or greater - Same as primary front setback.",57.0
 "Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)",Setbacks Side,"Residential Zones Development Standards - Mobile Home Planned Development, Mobile Home Subdivision (MHP)
@@ -527,12 +521,12 @@ Maximum Density
 See Section 35.23.130 (Multi- family Residential - Orcutt Zone Standards); plus one or more accessory dwelling units and/or one junior accessory dwelling unit per lot where allowed in compliance with Section
 
 35.42.015 (Accessory Dwelling Units and Junior Accessory Dwelling Units).",88.0
-Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O),Setbacks Front Primary,"Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O)
-Setbacks Front Primary
+Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O),Front Setback Primary,"Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O)
+Front Setback Primary
 
 See Section 35.23.130 (Multi- family Residential - Orcutt Zone Standards).",46.0
-Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O),Setbacks Front Secondary,"Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O)
-Setbacks Front Secondary
+Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O),Front Setback Secondary,"Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O)
+Front Setback Secondary
 
 See Section 35.23.130 (Multi- family Residential - Orcutt Zone Standards).",46.0
 Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O),Setbacks Side,"Residential Zones Development Standards - Multi-family Residential - Orcutt (MR-O)
